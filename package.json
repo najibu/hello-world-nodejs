@@ -1,0 +1,13 @@
+{
+  "name": "hello-world-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+
+  "dependencies": {
+    "q": "*",
+    "elasticio-sailor-nodejs": "*",
+    "elasticio-node": "*"
+  }
+}
